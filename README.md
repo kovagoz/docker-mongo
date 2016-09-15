@@ -15,7 +15,7 @@ Make uses a CentOS container to extract the libraries needed by _mongod_.
 Usage
 -----
 
-For testing purposes run the command below:
+For testing purposes run the following command:
 
 ```sh
 $ make run
