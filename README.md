@@ -12,7 +12,7 @@ Clone the repository and run the `make` command.
 
 Make uses a CentOS container to extract the libraries needed by _mongod_.
 
-Using
+Usage
 -----
 
 For testing purposes run the command below:
